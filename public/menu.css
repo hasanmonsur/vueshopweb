@@ -1,0 +1,35 @@
+a.custom-menu{
+  color: white!important; 
+  font-weight: bold; 
+  font-size: 15px;
+}
+div.custom-header{
+  padding-left: 4%;
+  padding-right: 20px;
+}
+.custom-header {
+  background-color: #2f8fe9; /* or any custom color */
+}
+.custom-footer {
+  background-color: #31577a; /* or any custom color */
+}
+.custom-sidebar {
+  background-color: #a7d0f7; /* or any custom color */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  nav ul li {
+    padding: 10px;
+  }
+  nav ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  
